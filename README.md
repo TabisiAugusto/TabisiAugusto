@@ -66,6 +66,6 @@ Economista con enfoque en la extracción, procesamiento y análisis de datos. Li
 </p>
 
 
-Estoy emocionado por participar en proyectos innovadores y enfrentar nuevos desafíos. ¡No dudes en contactarme para colaboraciones o discusiones interesantes! ✨
+Estoy emocionado por participar en proyectos innovadores. ¡No dudes en mandarme un mensaje para colaboraciones! ✨
 
 
