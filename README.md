@@ -11,7 +11,7 @@ Economista con enfoque en la extracción, procesamiento y análisis de datos. Li
 
 ## Acerca de mí
 
-### Educación 📚
+## Educación 📚
 
 - **Licenciatura en Economía**
   - *Universidad Nacional del Litoral*
@@ -39,12 +39,12 @@ Economista con enfoque en la extracción, procesamiento y análisis de datos. Li
   - 📊 Power BI
   - 📈 Tableau
 
-### Idiomas 🌐
+## Idiomas 🌐
 
 - **Inglés:** Avanzado
 - **Español:** Nativo
 
-### Contacto 📬
+## Contacto 📬
 
 <p align="left">
   <a href="https://www.github.com/TabisiAugusto" target="_blank" rel="noreferrer">
